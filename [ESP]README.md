@@ -66,7 +66,7 @@ Este proyecto está bajo la Licencia [ACGaming]. Consulta el archivo [LICENSE](.
 
 ## Contacto
 
-Si tienes preguntas o comentarios sobre el juego, puedes contactarme en [correo electrónico o enlace a tu perfil de GitHub].
+Si tienes preguntas o comentarios sobre el juego, puedes contactarme en [https://github.com/ArikicL](GitHub).
 
 ¡Espero que disfrutes del juego "Treasure Hunt Adventure"!
 
