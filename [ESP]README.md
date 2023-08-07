@@ -1,6 +1,6 @@
 # Treasure Hunt Adventure
 
-![Treasure Hunt Adventure Logo](url_del_logo)
+![Treasure Hunt Adventure Logo](https://github.com/ArikicL/TreasureHuntAdventure/blob/main/asset/logo/logoTHA.png)
 
 ¡Bienvenido a Treasure Hunt Adventure! Este es un emocionante juego de mesa digital desarrollado en Python con la biblioteca Pygame.
 
@@ -66,7 +66,7 @@ Este proyecto está bajo la Licencia [ACGaming]. Consulta el archivo [LICENSE](.
 
 ## Contacto
 
-Si tienes preguntas o comentarios sobre el juego, puedes contactarme en [https://github.com/ArikicL](GitHub).
+Si tienes preguntas o comentarios sobre el juego, puedes contactarme en [Github](https://github.com/ArikicL).
 
 ¡Espero que disfrutes del juego "Treasure Hunt Adventure"!
 
